@@ -1,0 +1,9 @@
+exam,paper,question_number,section,subject,topic,question_type,question,option_a,option_b,option_c,option_d,correct_option,correct_answer,explanation,difficulty,marks_correct,marks_incorrect,Unnamed: 18,year
+JEE_MAIN,1,2,Mathematics,Mathematics,Sequences & Series,MCQ,"An AP has first term 12, common difference 2. Its 7th term is",26,23,25,24,D,24,aₙ=a+(n−1)d=12+6×2=24.,Moderate,4,-1,,
+JEE_MAIN,1,4,Mathematics,Mathematics,Trigonometry,MCQ,Evaluate sin²θ+cos²θ.,1,2,0,3,A,1,Identity equals 1.,Moderate,4,-1,,
+JEE_MAIN,1,5,Mathematics,Mathematics,Sequences & Series,MCQ,"An AP has first term 11, common difference 2. Its 9th term is",29,28,27,26,C,27,aₙ=a+(n−1)d=11+8×2=27.,Moderate,4,-1,,
+JEE_MAIN,1,71,Chemistry,Chemistry,Organic Chemistry,Numerical,"If a sequence has first term 5 and common difference 4, find its 5th term.",,,,,,21,Use a5=a+4d.,Moderate,4,-1,,
+JEE_MAIN,1,72,Chemistry,Chemistry,Inorganic Chemistry,Numerical,"If a sequence has first term 3 and common difference 2, find its 5th term.",,,,,,11,Use a5=a+4d.,Moderate,4,-1,,
+JEE_MAIN,1,73,Chemistry,Chemistry,Inorganic Chemistry,Numerical,"If a sequence has first term 6 and common difference 3, find its 5th term.",,,,,,18,Use a5=a+4d.,Moderate,4,-1,,
+JEE_MAIN,1,74,Chemistry,Chemistry,Inorganic Chemistry,Numerical,"If a sequence has first term 2 and common difference 4, find its 5th term.",,,,,,18,Use a5=a+4d.,Moderate,4,-1,,
+JEE_MAIN,1,75,Chemistry,Chemistry,Inorganic Chemistry,Numerical,"If a sequence has first term 5 and common difference 5, find its 5th term.",,,,,,25,Use a5=a+4d.,Moderate,4,-1,,

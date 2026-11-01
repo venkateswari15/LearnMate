@@ -1,0 +1,21 @@
+exam,paper,question_number,section,subject,topic,question_type,question,option_a,option_b,option_c,option_d,correct_option,correct_answer,explanation,difficulty,marks_correct,marks_incorrect,Unnamed: 18,year
+JEE_MAIN,5,4,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (9,0,0) and (9,0,0) is",82,81,80,83,B,81,a·b=9×9=81.,Moderate,4,-1,,2
+JEE_MAIN,5,14,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 10 and 9 is,9.5,8.5,11.5,10.5,A,9.5,Mean=(10+9)/2=9.5.,Moderate,4,-1,,2
+JEE_MAIN,5,16,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |12 4; 4 10|.,104,103,105,106,A,104,Determinant=12×10−4²=104.,Moderate,4,-1,,2
+JEE_MAIN,5,21,Mathematics,Mathematics,Probability & Statistics,Numerical,The mean of 6 and 4 is,,,,,,5,Mean=(6+4)/2=5.0.,Moderate,4,-1,,2
+JEE_MAIN,5,22,Mathematics,Mathematics,Vectors & 3D,Numerical,"The dot product of vectors (9,0,0) and (3,0,0) is",,,,,,27,a·b=9×3=27.,Moderate,4,-1,,2
+JEE_MAIN,5,23,Mathematics,Mathematics,Vectors & 3D,Numerical,"The dot product of vectors (4,0,0) and (9,0,0) is",,,,,,36,a·b=4×9=36.,Moderate,4,-1,,2
+JEE_MAIN,5,24,Mathematics,Mathematics,Vectors & 3D,Numerical,"The dot product of vectors (5,0,0) and (7,0,0) is",,,,,,35,a·b=5×7=35.,Moderate,4,-1,,2
+JEE_MAIN,5,27,Physics,Physics,Electrostatics,MCQ,"Two point charges are separated by distance r. If the separation is doubled, electrostatic force becomes",none of these,cannot be determined,one-fourth,zero,C,one-fourth,Coulomb force varies as 1/r².,Moderate,4,-1,,2
+JEE_MAIN,5,28,Physics,Physics,Modern Physics,MCQ,"In the photoelectric effect, increasing light frequency above threshold primarily increases",none of these,zero,cannot be determined,maximum kinetic energy,D,maximum kinetic energy,Kmax=hν−φ.,Moderate,4,-1,,2
+JEE_MAIN,5,32,Physics,Physics,Modern Physics,MCQ,"In the photoelectric effect, increasing light frequency above threshold primarily increases [Variant 2: alternate numerical/context version for this mock set.]",zero,cannot be determined,none of these,maximum kinetic energy,D,maximum kinetic energy,Kmax=hν−φ.,Moderate,4,-1,,2
+JEE_MAIN,5,34,Physics,Physics,Current Electricity,MCQ,A 4 Ω resistor is connected to 12 V. The current is,4,2,3,5,C,3,I=V/R=12/4=3.0 A.,Moderate,4,-1,,2
+JEE_MAIN,5,35,Physics,Physics,Modern Physics,MCQ,"For a radioactive sample, after 3 half-lives the fraction remaining is",cannot be determined,zero,01-Aug,none of these,C,01-Aug,Remaining fraction=(1/2)^3=1/8.,Moderate,4,-1,,2
+JEE_MAIN,5,40,Physics,Physics,Electrostatics,MCQ,"Two point charges are separated by distance r. If the separation is doubled, electrostatic force becomes [Variant 2: alternate numerical/context version for this mock set.]",cannot be determined,zero,none of these,one-fourth,D,one-fourth,Coulomb force varies as 1/r².,Moderate,4,-1,,2
+JEE_MAIN,5,47,Physics,Physics,Electrostatics,Numerical,"If a sequence has first term 2 and common difference 2, find its 5th term.",,,,,,10,Use a5=a+4d.,Moderate,4,-1,,2
+JEE_MAIN,5,49,Physics,Physics,Magnetism & EMI/AC,Numerical,A conductor of length 12 m moves at 11 m/s perpendicular to a magnetic field of 4 T. The motional emf is,,,,,,528,ε=Blv=4×12×11=528 V.,Moderate,4,-1,,2
+JEE_MAIN,5,52,Chemistry,Chemistry,Organic Chemistry,MCQ,Which intermediate is characteristic of an SN1 reaction?,carbocation,cannot be determined,none of these,zero,A,carbocation,SN1 proceeds through a carbocation intermediate.,Moderate,4,-1,,2
+JEE_MAIN,5,66,Chemistry,Chemistry,Coordination & d/f block,MCQ,The coordination number of [Co(NH3)6]³⁺ is,6,zero,none of these,cannot be determined,A,6,Six NH3 ligands are directly coordinated to Co.,Moderate,4,-1,,2
+JEE_MAIN,5,68,Chemistry,Chemistry,Coordination & d/f block,MCQ,Which ion commonly forms coloured coordination compounds?,zero,none of these,cannot be determined,Cu²⁺,D,Cu²⁺,Partially filled d orbitals often produce colour in transition-metal complexes.,Moderate,4,-1,,2
+JEE_MAIN,5,72,Chemistry,Chemistry,Coordination & d/f block,Numerical,"If a sequence has first term 3 and common difference 2, find its 5th term.",,,,,,11,Use a5=a+4d.,Moderate,4,-1,,2
+JEE_MAIN,5,74,Chemistry,Chemistry,Coordination & d/f block,Numerical,"If a sequence has first term 2 and common difference 4, find its 5th term.",,,,,,18,Use a5=a+4d.,Moderate,4,-1,,2

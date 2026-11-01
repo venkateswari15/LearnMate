@@ -1,0 +1,10 @@
+exam,paper,question_number,section,subject,topic,question_type,question,option_a,option_b,option_c,option_d,correct_option,correct_answer,explanation,difficulty,marks_correct,marks_incorrect,Unnamed: 18,year
+JEE_MAIN,2,23,Mathematics,Mathematics,Coordinate Geometry,Numerical,The radius of the circle x²+y²-16x-20y=0 is,,,,,,12.80624847,Comparing x²+y²−2hx−2ky=0 gives radius √(h²+k²)=√(164)=12.8.,Moderate,4,-1,,1
+JEE_MAIN,2,27,Physics,Physics,Thermodynamics & KTG,MCQ,A gas absorbs 9 J of heat and does 3 J of work. Its change in internal energy is,8,5,6,7,C,6,First law: ΔU=Q−W=9−3=6 J.,Moderate,4,-1,,1
+JEE_MAIN,2,39,Physics,Physics,Properties of Matter,MCQ,Pressure at depth h in a liquid of density ρ is proportional to,none of these,ρgh,cannot be determined,zero,B,ρgh,Hydrostatic gauge pressure is P=ρgh.,Moderate,4,-1,,1
+JEE_MAIN,2,47,Physics,Physics,Properties of Matter,Numerical,"If a sequence has first term 3 and common difference 3, find its 5th term.",,,,,,15,Use a5=a+4d.,Moderate,4,-1,,1
+JEE_MAIN,2,58,Chemistry,Chemistry,Inorganic Chemistry,MCQ,The oxidation state of Mn in KMnO4 is,none of these,7,cannot be determined,zero,B,7,"K=+1 and O4=−8, so Mn=+7.",Moderate,4,-1,,1
+JEE_MAIN,2,60,Chemistry,Chemistry,Chemical Bonding,MCQ,The shape of CH4 is,zero,tetrahedral,cannot be determined,none of these,B,tetrahedral,Four bonding pairs around carbon give a tetrahedral shape.,Moderate,4,-1,,1
+JEE_MAIN,2,66,Chemistry,Chemistry,Inorganic Chemistry,MCQ,The oxidation state of Mn in KMnO4 is [Variant 2: alternate numerical/context version for this mock set.],none of these,zero,7,cannot be determined,C,7,"K=+1 and O4=−8, so Mn=+7.",Moderate,4,-1,,1
+JEE_MAIN,2,67,Chemistry,Chemistry,Chemical Bonding,MCQ,Which molecule is polar?,cannot be determined,zero,none of these,NH3,D,NH3,NH3 has a trigonal pyramidal shape and nonzero dipole moment.,Moderate,4,-1,,1
+JEE_MAIN,2,70,Chemistry,Chemistry,Organic Chemistry,MCQ,Benzene most commonly undergoes,cannot be determined,electrophilic substitution,zero,none of these,B,electrophilic substitution,Aromaticity is retained in electrophilic substitution.,Moderate,4,-1,,1

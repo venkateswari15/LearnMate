@@ -1,0 +1,20 @@
+exam,paper,question_number,section,subject,topic,question_type,question,option_a,option_b,option_c,option_d,correct_option,correct_answer,explanation,difficulty,marks_correct,marks_incorrect,Unnamed: 18,year
+JEE_MAIN,4,1,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 7 and 6 is,6.5,8.5,7.5,5.5,A,6.5,Mean=(7+6)/2=6.5.,Moderate,4,-1,,2
+JEE_MAIN,4,5,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (11,0,0) and (10,0,0) is",111,110,112,109,B,110,a·b=11×10=110.,Moderate,4,-1,,2
+JEE_MAIN,4,7,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (3,0,0) and (8,0,0) is",25,26,24,23,C,24,a·b=3×8=24.,Moderate,4,-1,,2
+JEE_MAIN,4,9,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |12 6; 6 8|.,59,62,61,60,D,60,Determinant=12×8−6²=60.,Moderate,4,-1,,2
+JEE_MAIN,4,16,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |12 3; 3 7|.,77,75,74,76,B,75,Determinant=12×7−3²=75.,Moderate,4,-1,,2
+JEE_MAIN,4,23,Mathematics,Mathematics,Matrices & Determinants,Numerical,Find determinant |10 8; 8 3|.,,,,,,-34,Determinant=10×3−8²=-34.,Moderate,4,-1,,2
+JEE_MAIN,4,25,Mathematics,Mathematics,Vectors & 3D,Numerical,"The dot product of vectors (8,0,0) and (2,0,0) is",,,,,,16,a·b=8×2=16.,Moderate,4,-1,,2
+JEE_MAIN,4,26,Physics,Physics,Modern Physics,MCQ,"A photon has frequency 9×10^14 Hz. If h is Planck's constant, its energy is",cannot be determined,9h×10^14,zero,none of these,B,9h×10^14,Use E=hν.,Moderate,4,-1,,2
+JEE_MAIN,4,29,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 4 m moves at 10 m/s perpendicular to a magnetic field of 4 T. The motional emf is,160,162,159,161,A,160,ε=Blv=4×4×10=160 V.,Moderate,4,-1,,2
+JEE_MAIN,4,30,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 6 m moves at 15 m/s perpendicular to a magnetic field of 5 T. The motional emf is,451,450,449,452,B,450,ε=Blv=5×6×15=450 V.,Moderate,4,-1,,2
+JEE_MAIN,4,32,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 5 m moves at 6 m/s perpendicular to a magnetic field of 3 T. The motional emf is,89,90,91,92,B,90,ε=Blv=3×5×6=90 V.,Moderate,4,-1,,2
+JEE_MAIN,4,36,Physics,Physics,Modern Physics,MCQ,"In the photoelectric effect, increasing light frequency above threshold primarily increases",maximum kinetic energy,none of these,cannot be determined,zero,A,maximum kinetic energy,Kmax=hν−φ.,Moderate,4,-1,,2
+JEE_MAIN,4,37,Physics,Physics,Current Electricity,MCQ,A 8 Ω resistor is connected to 32 V. The current is,6,4,3,5,B,4,I=V/R=32/8=4.0 A.,Moderate,4,-1,,2
+JEE_MAIN,4,38,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 4 m moves at 13 m/s perpendicular to a magnetic field of 3 T. The motional emf is,157,156,155,158,B,156,ε=Blv=3×4×13=156 V.,Moderate,4,-1,,2
+JEE_MAIN,4,41,Physics,Physics,Modern Physics,MCQ,A semiconductor diode is primarily used for,cannot be determined,zero,rectification,none of these,C,rectification,"A diode conducts preferentially in one direction, enabling rectification.",Moderate,4,-1,,2
+JEE_MAIN,4,46,Physics,Physics,Modern Physics,Numerical,"If a sequence has first term 2 and common difference 1, find its 5th term.",,,,,,6,Use a5=a+4d.,Moderate,4,-1,,2
+JEE_MAIN,4,47,Physics,Physics,Modern Physics,Numerical,"If a sequence has first term 5 and common difference 2, find its 5th term.",,,,,,13,Use a5=a+4d.,Moderate,4,-1,,2
+JEE_MAIN,4,53,Chemistry,Chemistry,Coordination & d/f block,MCQ,The coordination number of [Co(NH3)6]³⁺ is,cannot be determined,zero,none of these,6,D,6,Six NH3 ligands are directly coordinated to Co.,Moderate,4,-1,,2
+JEE_MAIN,4,66,Chemistry,Chemistry,Coordination & d/f block,MCQ,Lanthanides are primarily associated with filling of,4f orbitals,none of these,cannot be determined,zero,A,4f orbitals,Lanthanides involve progressive filling of 4f orbitals.,Moderate,4,-1,,2

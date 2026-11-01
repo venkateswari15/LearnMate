@@ -1,0 +1,161 @@
+exam,paper,question_number,section,subject,topic,question_type,question,option_a,option_b,option_c,option_d,correct_option,correct_answer,explanation,difficulty,marks_correct,marks_incorrect,Unnamed: 18,year
+TG_EAPCET,2,1,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The distance between (3,10) and (4,-3) is",14.03840481,15.03840481,12.03840481,13.03840481,D,13.03840481,Distance = √[(3-4)²+(10-(-3))²] = 13.,Moderate,1,0,,
+TG_EAPCET,2,2,Mathematics,Mathematics,Algebra,MCQ,"If roots of x²−5x+6=0 are α,β, find α+β.",4,7,6,5,D,5,Sum of roots = 5.,Moderate,1,0,,
+TG_EAPCET,2,3,Mathematics,Mathematics,Calculus,MCQ,Evaluate ∫₀^5 2x dx.,27,25,24,26,B,25,[x²]₀^5=25;,Moderate,1,0,,
+TG_EAPCET,2,4,Mathematics,Mathematics,Calculus,MCQ,"If f(x)=x³−5x², find f′(5).",26,24,25,27,C,25,"f′=3x²−10x; at x=5, value=25.",Moderate,1,0,,
+TG_EAPCET,2,5,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The distance between (7,5) and (6,-7) is",12.04159458,11.04159458,14.04159458,13.04159458,A,12.04159458,Distance = √[(7-6)²+(5-(-7))²] = 12.,Moderate,1,0,,
+TG_EAPCET,2,6,Mathematics,Mathematics,Algebra,MCQ,"How many integer solutions does x+y=14 have with x,y≥0?",15,17,14,16,A,15,There are 15 nonnegative solutions.,Moderate,1,0,,
+TG_EAPCET,2,7,Mathematics,Mathematics,Algebra,MCQ,"If z=11+2i, find |z|².",126,125,127,124,B,125,|z|²=11²+2²=125.,Moderate,1,0,,
+TG_EAPCET,2,8,Mathematics,Mathematics,Algebra,MCQ,"If a GP has first term 7 and common ratio 1, its 8th term is",6,7,8,9,B,7,All terms equal 7.,Moderate,1,0,,
+TG_EAPCET,2,9,Mathematics,Mathematics,Algebra,MCQ,"If roots of x²−17x+72=0 are α,β, find α+β.",19,17,18,16,B,17,Sum of roots = 17.,Moderate,1,0,,
+TG_EAPCET,2,10,Mathematics,Mathematics,Trigonometry,MCQ,Evaluate sin²θ+cos²θ.,1,3,0,2,A,1,Identity equals 1.,Moderate,1,0,,
+TG_EAPCET,2,11,Mathematics,Mathematics,P&C & Binomial,MCQ,"Evaluate C(5,2).",9,10,11,12,B,10,n(n−1)/2=10.,Moderate,1,0,,
+TG_EAPCET,2,12,Mathematics,Mathematics,Calculus,MCQ,Evaluate lim(x→0) sin(7x)/(7x).,2,1,3,0,B,1,Standard limit is 1.,Moderate,1,0,,
+TG_EAPCET,2,13,Mathematics,Mathematics,Trigonometry,MCQ,Evaluate sin²θ+cos²θ. [Variant 2: alternate numerical/context version for this mock set.],3,0,2,1,D,1,Identity equals 1.,Moderate,1,0,,
+TG_EAPCET,2,14,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The slope of the line joining (12,9) and (4,12) is",-1.375,1.625,-0.375,0.625,C,-0.375,Slope=(A−B)/(C−A)=(12-9)/(4-12)=-0.375.,Moderate,1,0,,
+TG_EAPCET,2,15,Mathematics,Mathematics,Algebra,MCQ,"If a GP has first term 4 and common ratio 1, its 8th term is",3,5,4,6,C,4,All terms equal 4.,Moderate,1,0,,
+TG_EAPCET,2,16,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |9 5; 5 5|.,19,22,21,20,D,20,Determinant=9×5−5²=20.,Moderate,1,0,,2
+TG_EAPCET,2,17,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (2,0,0) and (10,0,0) is",19,20,21,22,B,20,a·b=2×10=20.,Moderate,1,0,,2
+TG_EAPCET,2,18,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The slope of the line joining (8,3) and (4,8) is",-2.25,0.75,-1.25,-0.25,C,-1.25,Slope=(A−B)/(C−A)=(8-3)/(4-8)=-1.25.,Moderate,1,0,,
+TG_EAPCET,2,19,Mathematics,Mathematics,Calculus,MCQ,"For y=x²+7x, the x-coordinate of the vertex is",-2.5,-1.5,-4.5,-3.5,D,-3.5,x=−b/(2a)=−7/2.,Moderate,1,0,,
+TG_EAPCET,2,20,Mathematics,Mathematics,Sequences & Series,MCQ,"An AP has first term 2, common difference 7. Its 6th term is",39,36,38,37,D,37,aₙ=a+(n−1)d=2+5×7=37.,Moderate,1,0,,
+TG_EAPCET,2,21,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (5,0,0) and (6,0,0) is",31,29,30,32,C,30,a·b=5×6=30.,Moderate,1,0,,2
+TG_EAPCET,2,22,Mathematics,Mathematics,Calculus,MCQ,"If f(x)=x³−8x², find f′(8).",66,65,64,63,C,64,"f′=3x²−16x; at x=8, value=64.",Moderate,1,0,,
+TG_EAPCET,2,23,Mathematics,Mathematics,Coordinate Geometry,MCQ,The radius of the circle x²+y²-16x-20y=0 is,11.80624847,14.80624847,12.80624847,13.80624847,C,12.80624847,Comparing x²+y²−2hx−2ky=0 gives radius √(h²+k²)=√(164)=12.8.,Moderate,1,0,,1
+TG_EAPCET,2,24,Mathematics,Mathematics,P&C & Binomial,MCQ,"Evaluate C(5,2). [Variant 2: alternate numerical/context version for this mock set.]",12,11,10,9,C,10,n(n−1)/2=10.,Moderate,1,0,,
+TG_EAPCET,2,25,Mathematics,Mathematics,Algebra,MCQ,"If A and B are independent events with P(A)=1/7 and P(B)=1/8, find P(A∩B).",Jan-56,zero,cannot be determined,none of these,A,Jan-56,Multiply probabilities: 1/(56).,Moderate,1,0,,
+TG_EAPCET,2,26,Mathematics,Mathematics,Algebra,MCQ,Find 1+2+...+8.,37,36,38,35,B,36,n(n+1)/2=36.,Moderate,1,0,,
+TG_EAPCET,2,27,Mathematics,Mathematics,Sequences & Series,MCQ,"An AP has first term 5, common difference 6. Its 4th term is",22,23,25,24,B,23,aₙ=a+(n−1)d=5+3×6=23.,Moderate,1,0,,
+TG_EAPCET,2,28,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |11 2; 2 2|.,17,19,18,20,C,18,Determinant=11×2−2²=18.,Moderate,1,0,,2
+TG_EAPCET,2,29,Mathematics,Mathematics,Trigonometry,MCQ,Evaluate sin²θ+cos²θ. [Variant 3: alternate numerical/context version for this mock set.],3,0,2,1,D,1,Identity equals 1.,Moderate,1,0,,
+TG_EAPCET,2,30,Mathematics,Mathematics,Trigonometry,MCQ,Evaluate sin²θ+cos²θ. [Variant 4: alternate numerical/context version for this mock set.],2,3,0,1,D,1,Identity equals 1.,Moderate,1,0,,
+TG_EAPCET,2,31,Mathematics,Mathematics,Algebra,MCQ,Find the coefficient of x^3 in (1+x)^3.,2,1,0,3,B,1,"Coefficient is C(3,3)=1.",Moderate,1,0,,
+TG_EAPCET,2,32,Mathematics,Mathematics,Algebra,MCQ,"If A and B are independent events with P(A)=1/2 and P(B)=1/6, find P(A∩B).",none of these,zero,01-Dec,cannot be determined,C,01-Dec,Multiply probabilities: 1/(12).,Moderate,1,0,,
+TG_EAPCET,2,33,Mathematics,Mathematics,Algebra,MCQ,Find 1+2+...+10.,54,55,57,56,B,55,n(n+1)/2=55.,Moderate,1,0,,
+TG_EAPCET,2,34,Mathematics,Mathematics,Trigonometry,MCQ,Evaluate sin²θ+cos²θ. [Variant 5: alternate numerical/context version for this mock set.],3,2,0,1,D,1,Identity equals 1.,Moderate,1,0,,
+TG_EAPCET,2,35,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (12,0,0) and (6,0,0) is",73,71,74,72,D,72,a·b=12×6=72.,Moderate,1,0,,2
+TG_EAPCET,2,36,Mathematics,Mathematics,Calculus,MCQ,Evaluate lim(x→0) sin(7x)/(7x). [Variant 2: alternate numerical/context version for this mock set.],1,2,3,0,A,1,Standard limit is 1.,Moderate,1,0,,
+TG_EAPCET,2,37,Mathematics,Mathematics,Trigonometry,MCQ,Evaluate sin²θ+cos²θ. [Variant 6: alternate numerical/context version for this mock set.],3,2,1,0,C,1,Identity equals 1.,Moderate,1,0,,
+TG_EAPCET,2,38,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 3 and 2 is,1.5,2.5,4.5,3.5,B,2.5,Mean=(3+2)/2=2.5.,Moderate,1,0,,2
+TG_EAPCET,2,39,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 4 and 9 is,5.5,6.5,7.5,8.5,B,6.5,Mean=(4+9)/2=6.5.,Moderate,1,0,,2
+TG_EAPCET,2,40,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 9 and 7 is,9,10,8,7,C,8,Mean=(9+7)/2=8.0.,Moderate,1,0,,2
+TG_EAPCET,2,41,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The distance between (9,4) and (8,-9) is",12.03840481,14.03840481,13.03840481,15.03840481,C,13.03840481,Distance = √[(9-8)²+(4-(-9))²] = 13.,Moderate,1,0,,
+TG_EAPCET,2,42,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The slope of the line joining (11,9) and (3,11) is",-0.25,0.75,1.75,-1.25,A,-0.25,Slope=(A−B)/(C−A)=(11-9)/(3-11)=-0.25.,Moderate,1,0,,
+TG_EAPCET,2,43,Mathematics,Mathematics,Coordinate Geometry,MCQ,The radius of the circle x²+y²-22x-14y=0 is,12.03840481,13.03840481,14.03840481,15.03840481,B,13.03840481,Comparing x²+y²−2hx−2ky=0 gives radius √(h²+k²)=√(170)=13.,Moderate,1,0,,1
+TG_EAPCET,2,44,Mathematics,Mathematics,Calculus,MCQ,"If y=sin x + 3x, find dy/dx at x=0.",3,6,5,4,D,4,dy/dx=cos x+3; at 0 = 4.,Moderate,1,0,,
+TG_EAPCET,2,45,Mathematics,Mathematics,Calculus,MCQ,Evaluate ∫₀^5 2x dx. [Variant 2: alternate numerical/context version for this mock set.],25,26,24,27,A,25,[x²]₀^5=25;,Moderate,1,0,,
+TG_EAPCET,2,46,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 3 and 3 is,2,3,5,4,B,3,Mean=(3+3)/2=3.0.,Moderate,1,0,,2
+TG_EAPCET,2,47,Mathematics,Mathematics,Calculus,MCQ,The differential equation dy/dx=4y has solution y=C e^(kx). What is k?,5,3,4,6,C,4,Comparing dy/dx=4y gives k=4.,Moderate,1,0,,2
+TG_EAPCET,2,48,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 10 and 8 is,10,11,8,9,D,9,Mean=(10+8)/2=9.0.,Moderate,1,0,,2
+TG_EAPCET,2,49,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 7 and 9 is,10,9,7,8,D,8,Mean=(7+9)/2=8.0.,Moderate,1,0,,2
+TG_EAPCET,2,50,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |3 5; 5 2|.,-18,-17,-20,-19,D,-19,Determinant=3×2−5²=-19.,Moderate,1,0,,2
+TG_EAPCET,2,51,Mathematics,Mathematics,Algebra,MCQ,"If roots of x²−10x+21=0 are α,β, find α+β.",10,9,11,12,A,10,Sum of roots = 10.,Moderate,1,0,,
+TG_EAPCET,2,52,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The equation of a circle with centre (6,7) and radius 2 has constant term",81,80,83,82,A,81,(x−6)²+(y−7)²=4; constant after expansion is 81.,Moderate,1,0,,1
+TG_EAPCET,2,53,Mathematics,Mathematics,Algebra,MCQ,"If A and B are independent events with P(A)=1/9 and P(B)=1/3, find P(A∩B).",none of these,zero,cannot be determined,Jan-27,D,Jan-27,Multiply probabilities: 1/(27).,Moderate,1,0,,
+TG_EAPCET,2,54,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (10,0,0) and (7,0,0) is",70,71,69,72,A,70,a·b=10×7=70.,Moderate,1,0,,2
+TG_EAPCET,2,55,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 12 and 5 is,8.5,10.5,9.5,7.5,A,8.5,Mean=(12+5)/2=8.5.,Moderate,1,0,,2
+TG_EAPCET,2,56,Mathematics,Mathematics,P&C & Binomial,MCQ,"Evaluate C(8,2).",28,30,27,29,A,28,n(n−1)/2=28.,Moderate,1,0,,
+TG_EAPCET,2,57,Mathematics,Mathematics,Algebra,MCQ,"If a GP has first term 8 and common ratio 1, its 3th term is",7,9,8,10,C,8,All terms equal 8.,Moderate,1,0,,
+TG_EAPCET,2,58,Mathematics,Mathematics,Sequences & Series,MCQ,"An AP has first term 5, common difference 7. Its 5th term is",33,34,35,32,A,33,aₙ=a+(n−1)d=5+4×7=33.,Moderate,1,0,,
+TG_EAPCET,2,59,Mathematics,Mathematics,Calculus,MCQ,The differential equation dy/dx=5y has solution y=C e^(kx). What is k?,7,5,6,4,B,5,Comparing dy/dx=5y gives k=5.,Moderate,1,0,,2
+TG_EAPCET,2,60,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The equation of a circle with centre (9,4) and radius 2 has constant term",95,94,92,93,D,93,(x−9)²+(y−4)²=4; constant after expansion is 93.,Moderate,1,0,,1
+TG_EAPCET,2,61,Mathematics,Mathematics,Calculus,MCQ,"For y=x²+6x, the x-coordinate of the vertex is",-1,-4,-3,-2,C,-3,x=−b/(2a)=−6/2.,Moderate,1,0,,
+TG_EAPCET,2,62,Mathematics,Mathematics,P&C & Binomial,MCQ,"Evaluate C(7,2).",21,23,20,22,A,21,n(n−1)/2=21.,Moderate,1,0,,
+TG_EAPCET,2,63,Mathematics,Mathematics,Calculus,MCQ,Evaluate ∫₀^6 2x dx.,38,35,37,36,D,36,[x²]₀^6=36;,Moderate,1,0,,
+TG_EAPCET,2,64,Mathematics,Mathematics,Sequences & Series,MCQ,"An AP has first term 4, common difference 8. Its 7th term is",54,52,51,53,B,52,aₙ=a+(n−1)d=4+6×8=52.,Moderate,1,0,,
+TG_EAPCET,2,65,Mathematics,Mathematics,Algebra,MCQ,"If roots of x²−16x+64=0 are α,β, find α+β.",15,16,17,18,B,16,Sum of roots = 16.,Moderate,1,0,,
+TG_EAPCET,2,66,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The slope of the line joining (6,2) and (1,6) is",1.2,0.2,-1.8,-0.8,D,-0.8,Slope=(A−B)/(C−A)=(6-2)/(1-6)=-0.8.,Moderate,1,0,,
+TG_EAPCET,2,67,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |3 7; 7 8|.,-24,-25,-23,-26,B,-25,Determinant=3×8−7²=-25.,Moderate,1,0,,2
+TG_EAPCET,2,68,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The equation of a circle with centre (7,8) and radius 4 has constant term",98,97,99,96,B,97,(x−7)²+(y−8)²=16; constant after expansion is 97.,Moderate,1,0,,1
+TG_EAPCET,2,69,Mathematics,Mathematics,Algebra,MCQ,"How many integer solutions does x+y=5 have with x,y≥0?",5,6,8,7,B,6,There are 6 nonnegative solutions.,Moderate,1,0,,
+TG_EAPCET,2,70,Mathematics,Mathematics,Calculus,MCQ,"If f(x)=x³−7x², find f′(7).",49,51,48,50,A,49,"f′=3x²−14x; at x=7, value=49.",Moderate,1,0,,
+TG_EAPCET,2,71,Mathematics,Mathematics,Calculus,MCQ,The differential equation dy/dx=7y has solution y=C e^(kx). What is k?,9,7,8,6,B,7,Comparing dy/dx=7y gives k=7.,Moderate,1,0,,2
+TG_EAPCET,2,72,Mathematics,Mathematics,P&C & Binomial,MCQ,"Evaluate C(10,2).",47,46,44,45,D,45,n(n−1)/2=45.,Moderate,1,0,,
+TG_EAPCET,2,73,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |2 6; 6 6|.,-25,-22,-23,-24,D,-24,Determinant=2×6−6²=-24.,Moderate,1,0,,2
+TG_EAPCET,2,74,Mathematics,Mathematics,Algebra,MCQ,"If A and B are independent events with P(A)=1/10 and P(B)=1/10, find P(A∩B).",zero,1/100,cannot be determined,none of these,B,1/100,Multiply probabilities: 1/(100).,Moderate,1,0,,
+TG_EAPCET,2,75,Mathematics,Mathematics,Trigonometry,MCQ,Evaluate sin²θ+cos²θ. [Variant 7: alternate numerical/context version for this mock set.],2,1,0,3,B,1,Identity equals 1.,Moderate,1,0,,
+TG_EAPCET,2,76,Mathematics,Mathematics,Algebra,MCQ,"How many integer solutions does x+y=10 have with x,y≥0?",10,11,13,12,B,11,There are 11 nonnegative solutions.,Moderate,1,0,,
+TG_EAPCET,2,77,Mathematics,Mathematics,Algebra,MCQ,"If z=4+7i, find |z|².",67,66,64,65,D,65,|z|²=4²+7²=65.,Moderate,1,0,,
+TG_EAPCET,2,78,Mathematics,Mathematics,Algebra,MCQ,"If a GP has first term 8 and common ratio 1, its 10th term is",7,10,9,8,D,8,All terms equal 8.,Moderate,1,0,,
+TG_EAPCET,2,79,Mathematics,Mathematics,Algebra,MCQ,"If roots of x²−9x+14=0 are α,β, find α+β.",10,11,9,8,C,9,Sum of roots = 9.,Moderate,1,0,,
+TG_EAPCET,2,80,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 11 and 7 is,10,11,8,9,D,9,Mean=(11+7)/2=9.0.,Moderate,1,0,,2
+TG_EAPCET,2,81,Physics,Physics,Mechanics,MCQ,An object with initial speed 10 m/s accelerates at 5 m/s² for 5 s. Final speed is,37,36,35,34,C,35,v=u+at=10+5×5=35 m/s.,Moderate,1,0,,
+TG_EAPCET,2,82,Physics,Physics,Thermodynamics & KTG,MCQ,A gas absorbs 24 J of heat and does 3 J of work. Its change in internal energy is,22,21,20,23,B,21,First law: ΔU=Q−W=24−3=21 J.,Moderate,1,0,,1
+TG_EAPCET,2,83,Physics,Physics,Units & Experimental,MCQ,Which instrument is most suitable for measuring the diameter of a thin wire accurately?,zero,screw gauge,cannot be determined,none of these,B,screw gauge,A screw gauge measures small diameters precisely.,Moderate,1,0,,
+TG_EAPCET,2,84,Physics,Physics,Current Electricity,MCQ,A 3 Ω resistor is connected to 18 V. The current is,8,6,7,5,B,6,I=V/R=18/3=6.0 A.,Moderate,1,0,,2
+TG_EAPCET,2,85,Physics,Physics,Waves & SHM,MCQ,A wave has frequency 5 Hz and wavelength 4 m. Its speed is,20,22,19,21,A,20,v=fλ=5×4=20 m/s.,Moderate,1,0,,
+TG_EAPCET,2,86,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 11 m moves at 7 m/s perpendicular to a magnetic field of 2 T. The motional emf is,153,156,155,154,D,154,ε=Blv=2×11×7=154 V.,Moderate,1,0,,2
+TG_EAPCET,2,87,Physics,Physics,Mechanics,MCQ,A 11 kg body moving at 6 m/s has momentum,66,67,68,65,A,66,p=mv=11×6=66 kg m/s.,Moderate,1,0,,
+TG_EAPCET,2,88,Physics,Physics,Modern Physics,MCQ,"In the photoelectric effect, increasing light frequency above threshold primarily increases",maximum kinetic energy,none of these,zero,cannot be determined,A,maximum kinetic energy,Kmax=hν−φ.,Moderate,1,0,,2
+TG_EAPCET,2,89,Physics,Physics,Mechanics,MCQ,The kinetic energy of a 6 kg body moving at 11 m/s is,363,364,362,365,A,363,K=½mv²=363.0 J.,Moderate,1,0,,
+TG_EAPCET,2,90,Physics,Physics,Modern Physics,MCQ,"A photon has frequency 14×10^14 Hz. If h is Planck's constant, its energy is",zero,14h×10^14,none of these,cannot be determined,B,14h×10^14,Use E=hν.,Moderate,1,0,,2
+TG_EAPCET,2,91,Physics,Physics,Modern Physics,MCQ,"For a radioactive sample, after 4 half-lives the fraction remaining is",zero,Jan-16,none of these,cannot be determined,B,Jan-16,Remaining fraction=(1/2)^4=1/16.,Moderate,1,0,,2
+TG_EAPCET,2,92,Physics,Physics,Modern Physics,MCQ,"In the photoelectric effect, increasing light frequency above threshold primarily increases [Variant 2: alternate numerical/context version for this mock set.]",none of these,zero,maximum kinetic energy,cannot be determined,C,maximum kinetic energy,Kmax=hν−φ.,Moderate,1,0,,2
+TG_EAPCET,2,93,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 9 m moves at 12 m/s perpendicular to a magnetic field of 2 T. The motional emf is,216,217,218,215,A,216,ε=Blv=2×9×12=216 V.,Moderate,1,0,,2
+TG_EAPCET,2,94,Physics,Physics,Properties of Matter,MCQ,Pressure at depth h in a liquid of density ρ is proportional to,zero,cannot be determined,none of these,ρgh,D,ρgh,Hydrostatic gauge pressure is P=ρgh.,Moderate,1,0,,1
+TG_EAPCET,2,95,Physics,Physics,Mechanics,MCQ,A 8 kg mass is lifted through 5 m. Take g=10 m/s². Gain in potential energy is,399,401,400,402,C,400,ΔU=mgh=8×10×5=400 J.,Moderate,1,0,,
+TG_EAPCET,2,96,Physics,Physics,Optics,MCQ,A convex lens has focal length 12 cm. Its power is approximately,7.333,10.333,8.333,9.333,C,8.333,P=1/f(in metres)=100/12≈8.333 D.,Moderate,1,0,,
+TG_EAPCET,2,97,Physics,Physics,Mechanics,MCQ,A 12 kg body moving at 15 m/s has momentum,181,180,179,182,B,180,p=mv=12×15=180 kg m/s.,Moderate,1,0,,
+TG_EAPCET,2,98,Physics,Physics,Optics,MCQ,A convex lens has focal length 15 cm. Its power is approximately,6.667,5.667,7.667,8.667,A,6.667,P=1/f(in metres)=100/15≈6.667 D.,Moderate,1,0,,
+TG_EAPCET,2,99,Physics,Physics,Modern Physics,MCQ,"For a radioactive sample, after 8 half-lives the fraction remaining is",none of these,zero,1/256,cannot be determined,C,1/256,Remaining fraction=(1/2)^8=1/256.,Moderate,1,0,,2
+TG_EAPCET,2,100,Physics,Physics,Current Electricity,MCQ,A 3 Ω resistor is connected to 6 V. The current is,4,3,1,2,D,2,I=V/R=6/3=2.0 A.,Moderate,1,0,,2
+TG_EAPCET,2,101,Physics,Physics,Mechanics,MCQ,An object with initial speed 10 m/s accelerates at 9 m/s² for 7 s. Final speed is,72,73,74,75,B,73,v=u+at=10+9×7=73 m/s.,Moderate,1,0,,
+TG_EAPCET,2,102,Physics,Physics,Properties of Matter,MCQ,Pressure at depth h in a liquid of density ρ is proportional to [Variant 2: alternate numerical/context version for this mock set.],zero,cannot be determined,ρgh,none of these,C,ρgh,Hydrostatic gauge pressure is P=ρgh.,Moderate,1,0,,1
+TG_EAPCET,2,103,Physics,Physics,Current Electricity,MCQ,A 10 Ω resistor is connected to 30 V. The current is,5,3,4,2,B,3,I=V/R=30/10=3.0 A.,Moderate,1,0,,2
+TG_EAPCET,2,104,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 6 m moves at 4 m/s perpendicular to a magnetic field of 3 T. The motional emf is,72,73,74,71,A,72,ε=Blv=3×6×4=72 V.,Moderate,1,0,,2
+TG_EAPCET,2,105,Physics,Physics,Mechanics,MCQ,A 6 kg mass is lifted through 2 m. Take g=10 m/s². Gain in potential energy is,122,119,121,120,D,120,ΔU=mgh=6×10×2=120 J.,Moderate,1,0,,
+TG_EAPCET,2,106,Physics,Physics,Modern Physics,MCQ,"A photon has frequency 15×10^14 Hz. If h is Planck's constant, its energy is",15h×10^14,none of these,zero,cannot be determined,A,15h×10^14,Use E=hν.,Moderate,1,0,,2
+TG_EAPCET,2,107,Physics,Physics,Mechanics,MCQ,A 2 kg body moving at 6 m/s has momentum,11,12,14,13,B,12,p=mv=2×6=12 kg m/s.,Moderate,1,0,,
+TG_EAPCET,2,108,Physics,Physics,Thermodynamics & KTG,MCQ,A gas absorbs 18 J of heat and does 6 J of work. Its change in internal energy is,11,13,14,12,D,12,First law: ΔU=Q−W=18−6=12 J.,Moderate,1,0,,1
+TG_EAPCET,2,109,Physics,Physics,Electrostatics,MCQ,"Two point charges are separated by distance r. If the separation is doubled, electrostatic force becomes",one-fourth,zero,none of these,cannot be determined,A,one-fourth,Coulomb force varies as 1/r².,Moderate,1,0,,2
+TG_EAPCET,2,110,Physics,Physics,Mechanics,MCQ,A 8 kg mass is lifted through 7 m. Take g=10 m/s². Gain in potential energy is,562,560,561,559,B,560,ΔU=mgh=8×10×7=560 J.,Moderate,1,0,,
+TG_EAPCET,2,111,Physics,Physics,Optics,MCQ,A convex lens has focal length 12 cm. Its power is approximately [Variant 2: alternate numerical/context version for this mock set.],10.333,9.333,8.333,7.333,C,8.333,P=1/f(in metres)=100/12≈8.333 D.,Moderate,1,0,,
+TG_EAPCET,2,112,Physics,Physics,Optics,MCQ,A convex lens has focal length 10 cm. Its power is approximately,10,9,11,12,A,10,P=1/f(in metres)=100/10≈10.0 D.,Moderate,1,0,,
+TG_EAPCET,2,113,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 5 m moves at 5 m/s perpendicular to a magnetic field of 5 T. The motional emf is,127,126,124,125,D,125,ε=Blv=5×5×5=125 V.,Moderate,1,0,,2
+TG_EAPCET,2,114,Physics,Physics,Thermodynamics & KTG,MCQ,A gas absorbs 8 J of heat and does 2 J of work. Its change in internal energy is,8,6,5,7,B,6,First law: ΔU=Q−W=8−2=6 J.,Moderate,1,0,,1
+TG_EAPCET,2,115,Physics,Physics,Mechanics,MCQ,A 11 kg mass is lifted through 6 m. Take g=10 m/s². Gain in potential energy is,659,662,660,661,C,660,ΔU=mgh=11×10×6=660 J.,Moderate,1,0,,
+TG_EAPCET,2,116,Physics,Physics,Mechanics,MCQ,An object with initial speed 9 m/s accelerates at 11 m/s² for 8 s. Final speed is,97,98,96,99,A,97,v=u+at=9+11×8=97 m/s.,Moderate,1,0,,
+TG_EAPCET,2,117,Physics,Physics,Thermodynamics & KTG,MCQ,A gas absorbs 12 J of heat and does 4 J of work. Its change in internal energy is,10,9,7,8,D,8,First law: ΔU=Q−W=12−4=8 J.,Moderate,1,0,,1
+TG_EAPCET,2,118,Physics,Physics,Thermodynamics & KTG,MCQ,A gas absorbs 10 J of heat and does 5 J of work. Its change in internal energy is,5,6,7,4,A,5,First law: ΔU=Q−W=10−5=5 J.,Moderate,1,0,,1
+TG_EAPCET,2,119,Physics,Physics,Current Electricity,MCQ,A 8 Ω resistor is connected to 24 V. The current is,2,5,3,4,C,3,I=V/R=24/8=3.0 A.,Moderate,1,0,,2
+TG_EAPCET,2,120,Physics,Physics,Properties of Matter,MCQ,Pressure at depth h in a liquid of density ρ is proportional to [Variant 3: alternate numerical/context version for this mock set.],zero,cannot be determined,none of these,ρgh,D,ρgh,Hydrostatic gauge pressure is P=ρgh.,Moderate,1,0,,1
+TG_EAPCET,2,121,Chemistry,Chemistry,Coordination & d/f block,MCQ,Lanthanides are primarily associated with filling of,none of these,4f orbitals,zero,cannot be determined,B,4f orbitals,Lanthanides involve progressive filling of 4f orbitals.,Moderate,1,0,,2
+TG_EAPCET,2,122,Chemistry,Chemistry,Physical Chemistry,MCQ,How many moles are present in 108 g of water? (M=18 g mol⁻¹),6,7,8,5,A,6,n=m/M=108/18=6 mol.,Moderate,1,0,,
+TG_EAPCET,2,123,Chemistry,Chemistry,Organic Chemistry,MCQ,Which reagent converts a primary alcohol to an aldehyde under controlled oxidation?,cannot be determined,none of these,zero,PCC,D,PCC,PCC is a mild oxidant that can stop at aldehydes.,Moderate,1,0,,
+TG_EAPCET,2,124,Chemistry,Chemistry,Coordination & d/f block,MCQ,Lanthanides are primarily associated with filling of [Variant 2: alternate numerical/context version for this mock set.],4f orbitals,zero,none of these,cannot be determined,A,4f orbitals,Lanthanides involve progressive filling of 4f orbitals.,Moderate,1,0,,2
+TG_EAPCET,2,125,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which element is most electronegative?,none of these,fluorine,zero,cannot be determined,B,fluorine,Fluorine has the highest electronegativity.,Moderate,1,0,,
+TG_EAPCET,2,126,Chemistry,Chemistry,Physical Chemistry,MCQ,How many moles are present in 216 g of water? (M=18 g mol⁻¹),12,14,13,11,A,12,n=m/M=216/18=12 mol.,Moderate,1,0,,
+TG_EAPCET,2,127,Chemistry,Chemistry,Physical Chemistry,MCQ,A solution contains 5 mol solute in 4 L. Its molarity is,2.25,3.25,0.25,1.25,D,1.25,M=n/V=5/4=1.25 mol L⁻¹.,Moderate,1,0,,
+TG_EAPCET,2,128,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which block contains most transition elements?,zero,d-block,cannot be determined,none of these,B,d-block,Transition elements are predominantly d-block elements.,Moderate,1,0,,
+TG_EAPCET,2,129,Chemistry,Chemistry,Physical Chemistry,MCQ,"For an exothermic reaction at constant pressure, ΔH is",zero,none of these,cannot be determined,negative,D,negative,"Heat is released, so ΔH<0.",Moderate,1,0,,
+TG_EAPCET,2,130,Chemistry,Chemistry,Chemical Bonding,MCQ,A coordinate bond involves,zero,none of these,cannot be determined,shared pair donated by one atom,D,shared pair donated by one atom,Both electrons in the shared pair are donated by one atom.,Moderate,1,0,,1
+TG_EAPCET,2,131,Chemistry,Chemistry,Physical Chemistry,MCQ,A solution contains 5 mol solute in 9 L. Its molarity is,0.555555556,-0.444444444,2.555555556,1.555555556,A,0.555555556,M=n/V=5/9=0.5555555555555556 mol L⁻¹.,Moderate,1,0,,
+TG_EAPCET,2,132,Chemistry,Chemistry,Physical Chemistry,MCQ,A first-order reaction has rate constant k. Its half-life is proportional to,zero,cannot be determined,1/k,none of these,C,1/k,"For first order, t1/2=0.693/k.",Moderate,1,0,,
+TG_EAPCET,2,133,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which element is most electronegative? [Variant 2: alternate numerical/context version for this mock set.],fluorine,zero,cannot be determined,none of these,A,fluorine,Fluorine has the highest electronegativity.,Moderate,1,0,,
+TG_EAPCET,2,134,Chemistry,Chemistry,Inorganic Chemistry,MCQ,The oxidation state of Mn in KMnO4 is,cannot be determined,7,none of these,zero,B,7,"K=+1 and O4=−8, so Mn=+7.",Moderate,1,0,,1
+TG_EAPCET,2,135,Chemistry,Chemistry,Organic Chemistry,MCQ,Which reagent converts a primary alcohol to an aldehyde under controlled oxidation? [Variant 2: alternate numerical/context version for this mock set.],cannot be determined,zero,none of these,PCC,D,PCC,PCC is a mild oxidant that can stop at aldehydes.,Moderate,1,0,,
+TG_EAPCET,2,136,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which block contains most transition elements? [Variant 2: alternate numerical/context version for this mock set.],cannot be determined,none of these,zero,d-block,D,d-block,Transition elements are predominantly d-block elements.,Moderate,1,0,,
+TG_EAPCET,2,137,Chemistry,Chemistry,Chemical Bonding,MCQ,Hybridisation of carbon in ethene is,sp²,cannot be determined,zero,none of these,A,sp²,Each alkene carbon is sp² hybridised.,Moderate,1,0,,1
+TG_EAPCET,2,138,Chemistry,Chemistry,Inorganic Chemistry,MCQ,The oxidation state of Mn in KMnO4 is [Variant 2: alternate numerical/context version for this mock set.],zero,none of these,7,cannot be determined,C,7,"K=+1 and O4=−8, so Mn=+7.",Moderate,1,0,,1
+TG_EAPCET,2,139,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which gas is evolved when an active metal reacts with dilute HCl?,none of these,hydrogen,cannot be determined,zero,B,hydrogen,Metal + acid gives salt + H2.,Moderate,1,0,,
+TG_EAPCET,2,140,Chemistry,Chemistry,Organic Chemistry,MCQ,Which intermediate is characteristic of an SN1 reaction?,none of these,carbocation,cannot be determined,zero,B,carbocation,SN1 proceeds through a carbocation intermediate.,Moderate,1,0,,2
+TG_EAPCET,2,141,Chemistry,Chemistry,Organic Chemistry,MCQ,The functional group −COOH is called,cannot be determined,zero,none of these,carboxylic acid,D,carboxylic acid,−COOH is the carboxyl group of carboxylic acids.,Moderate,1,0,,
+TG_EAPCET,2,142,Chemistry,Chemistry,Inorganic Chemistry,MCQ,The oxidation state of Mn in KMnO4 is [Variant 3: alternate numerical/context version for this mock set.],zero,7,none of these,cannot be determined,B,7,"K=+1 and O4=−8, so Mn=+7.",Moderate,1,0,,1
+TG_EAPCET,2,143,Chemistry,Chemistry,Organic Chemistry,MCQ,Which reagent converts a primary alcohol to an aldehyde under controlled oxidation? [Variant 3: alternate numerical/context version for this mock set.],PCC,zero,none of these,cannot be determined,A,PCC,PCC is a mild oxidant that can stop at aldehydes.,Moderate,1,0,,
+TG_EAPCET,2,144,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which block contains most transition elements? [Variant 3: alternate numerical/context version for this mock set.],d-block,zero,none of these,cannot be determined,A,d-block,Transition elements are predominantly d-block elements.,Moderate,1,0,,
+TG_EAPCET,2,145,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which element is most electronegative? [Variant 3: alternate numerical/context version for this mock set.],fluorine,none of these,zero,cannot be determined,A,fluorine,Fluorine has the highest electronegativity.,Moderate,1,0,,
+TG_EAPCET,2,146,Chemistry,Chemistry,Organic Chemistry,MCQ,Benzene most commonly undergoes,zero,none of these,cannot be determined,electrophilic substitution,D,electrophilic substitution,Aromaticity is retained in electrophilic substitution.,Moderate,1,0,,1
+TG_EAPCET,2,147,Chemistry,Chemistry,Physical Chemistry,MCQ,A solution contains 4 mol solute in 4 L. Its molarity is,2,0,3,1,D,1,M=n/V=4/4=1.0 mol L⁻¹.,Moderate,1,0,,
+TG_EAPCET,2,148,Chemistry,Chemistry,Organic Chemistry,MCQ,Which intermediate is characteristic of an SN1 reaction? [Variant 2: alternate numerical/context version for this mock set.],cannot be determined,none of these,carbocation,zero,C,carbocation,SN1 proceeds through a carbocation intermediate.,Moderate,1,0,,2
+TG_EAPCET,2,149,Chemistry,Chemistry,Coordination & d/f block,MCQ,Which ion commonly forms coloured coordination compounds?,cannot be determined,Cu²⁺,none of these,zero,B,Cu²⁺,Partially filled d orbitals often produce colour in transition-metal complexes.,Moderate,1,0,,2
+TG_EAPCET,2,150,Chemistry,Chemistry,Inorganic Chemistry,MCQ,The oxidation state of Mn in KMnO4 is [Variant 4: alternate numerical/context version for this mock set.],7,zero,none of these,cannot be determined,A,7,"K=+1 and O4=−8, so Mn=+7.",Moderate,1,0,,1
+TG_EAPCET,2,151,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which gas is evolved when an active metal reacts with dilute HCl? [Variant 2: alternate numerical/context version for this mock set.],hydrogen,zero,cannot be determined,none of these,A,hydrogen,Metal + acid gives salt + H2.,Moderate,1,0,,
+TG_EAPCET,2,152,Chemistry,Chemistry,Physical Chemistry,MCQ,A first-order reaction has rate constant k. Its half-life is proportional to [Variant 2: alternate numerical/context version for this mock set.],zero,cannot be determined,1/k,none of these,C,1/k,"For first order, t1/2=0.693/k.",Moderate,1,0,,
+TG_EAPCET,2,153,Chemistry,Chemistry,Physical Chemistry,MCQ,"For an exothermic reaction at constant pressure, ΔH is [Variant 2: alternate numerical/context version for this mock set.]",cannot be determined,none of these,zero,negative,D,negative,"Heat is released, so ΔH<0.",Moderate,1,0,,
+TG_EAPCET,2,154,Chemistry,Chemistry,Physical Chemistry,MCQ,How many moles are present in 72 g of water? (M=18 g mol⁻¹),3,6,5,4,D,4,n=m/M=72/18=4 mol.,Moderate,1,0,,
+TG_EAPCET,2,155,Chemistry,Chemistry,Physical Chemistry,MCQ,A solution contains 3 mol solute in 9 L. Its molarity is,-0.666666667,1.333333333,0.333333333,2.333333333,C,0.333333333,M=n/V=3/9=0.3333333333333333 mol L⁻¹.,Moderate,1,0,,
+TG_EAPCET,2,156,Chemistry,Chemistry,Coordination & d/f block,MCQ,The coordination number of [Co(NH3)6]³⁺ is,zero,cannot be determined,6,none of these,C,6,Six NH3 ligands are directly coordinated to Co.,Moderate,1,0,,2
+TG_EAPCET,2,157,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which element is most electronegative? [Variant 4: alternate numerical/context version for this mock set.],zero,fluorine,none of these,cannot be determined,B,fluorine,Fluorine has the highest electronegativity.,Moderate,1,0,,
+TG_EAPCET,2,158,Chemistry,Chemistry,Physical Chemistry,MCQ,How many moles are present in 108 g of water? (M=18 g mol⁻¹) [Variant 2: alternate numerical/context version for this mock set.],7,8,6,5,C,6,n=m/M=108/18=6 mol.,Moderate,1,0,,
+TG_EAPCET,2,159,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which gas is evolved when an active metal reacts with dilute HCl? [Variant 3: alternate numerical/context version for this mock set.],hydrogen,cannot be determined,zero,none of these,A,hydrogen,Metal + acid gives salt + H2.,Moderate,1,0,,
+TG_EAPCET,2,160,Chemistry,Chemistry,Coordination & d/f block,MCQ,Lanthanides are primarily associated with filling of [Variant 3: alternate numerical/context version for this mock set.],zero,4f orbitals,cannot be determined,none of these,B,4f orbitals,Lanthanides involve progressive filling of 4f orbitals.,Moderate,1,0,,2

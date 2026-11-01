@@ -1,0 +1,13 @@
+exam,paper,question_number,section,subject,topic,question_type,question,option_a,option_b,option_c,option_d,correct_option,correct_answer,explanation,difficulty,marks_correct,marks_incorrect,Unnamed: 18,year
+JEE_MAIN,3,12,Mathematics,Mathematics,Coordinate Geometry,MCQ,"The equation of a circle with centre (10,9) and radius 8 has constant term",117,119,118,116,A,117,(x−10)²+(y−9)²=64; constant after expansion is 117.,Moderate,4,-1,,1
+JEE_MAIN,3,23,Mathematics,Mathematics,Coordinate Geometry,Numerical,The radius of the circle x²+y²-6x-4y=0 is,,,,,,3.605551275,Comparing x²+y²−2hx−2ky=0 gives radius √(h²+k²)=√(13)=3.61.,Moderate,4,-1,,1
+JEE_MAIN,3,24,Mathematics,Mathematics,Coordinate Geometry,Numerical,"The equation of a circle with centre (5,10) and radius 2 has constant term",,,,,,121,(x−5)²+(y−10)²=4; constant after expansion is 121.,Moderate,4,-1,,1
+JEE_MAIN,3,42,Physics,Physics,Thermodynamics & KTG,MCQ,A gas absorbs 72 J of heat and does 9 J of work. Its change in internal energy is,62,64,63,65,C,63,First law: ΔU=Q−W=72−9=63 J.,Moderate,4,-1,,1
+JEE_MAIN,3,44,Physics,Physics,Thermodynamics & KTG,MCQ,A gas absorbs 24 J of heat and does 8 J of work. Its change in internal energy is,17,16,15,18,B,16,First law: ΔU=Q−W=24−8=16 J.,Moderate,4,-1,,1
+JEE_MAIN,3,46,Physics,Physics,Thermodynamics & KTG,Numerical,A gas absorbs 40 J of heat and does 5 J of work. Its change in internal energy is,,,,,,35,First law: ΔU=Q−W=40−5=35 J.,Moderate,4,-1,,1
+JEE_MAIN,3,47,Physics,Physics,Thermodynamics & KTG,Numerical,A gas absorbs 70 J of heat and does 10 J of work. Its change in internal energy is,,,,,,60,First law: ΔU=Q−W=70−10=60 J.,Moderate,4,-1,,1
+JEE_MAIN,3,48,Physics,Physics,Properties of Matter,Numerical,"If a sequence has first term 3 and common difference 4, find its 5th term.",,,,,,19,Use a5=a+4d.,Moderate,4,-1,,1
+JEE_MAIN,3,55,Chemistry,Chemistry,Chemical Bonding,MCQ,Which molecule is polar?,NH3,cannot be determined,none of these,zero,A,NH3,NH3 has a trigonal pyramidal shape and nonzero dipole moment.,Moderate,4,-1,,1
+JEE_MAIN,3,65,Chemistry,Chemistry,Chemical Bonding,MCQ,Hybridisation of carbon in ethene is,zero,cannot be determined,sp²,none of these,C,sp²,Each alkene carbon is sp² hybridised.,Moderate,4,-1,,1
+JEE_MAIN,3,69,Chemistry,Chemistry,Chemical Bonding,MCQ,Hybridisation of carbon in ethene is [Variant 2: alternate numerical/context version for this mock set.],zero,sp²,none of these,cannot be determined,B,sp²,Each alkene carbon is sp² hybridised.,Moderate,4,-1,,1
+JEE_MAIN,3,70,Chemistry,Chemistry,Organic Chemistry,MCQ,Benzene most commonly undergoes,none of these,cannot be determined,zero,electrophilic substitution,D,electrophilic substitution,Aromaticity is retained in electrophilic substitution.,Moderate,4,-1,,1

@@ -1,0 +1,30 @@
+exam,paper,question_number,section,subject,topic,question_type,question,option_a,option_b,option_c,option_d,correct_option,correct_answer,explanation,difficulty,marks_correct,marks_incorrect,Unnamed: 18,year
+JEE_MAIN,1,1,Mathematics,Mathematics,Calculus,MCQ,The differential equation dy/dx=7y has solution y=C e^(kx). What is k?,7,9,6,8,A,7,Comparing dy/dx=7y gives k=7.,Moderate,4,-1,,2
+JEE_MAIN,1,3,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (10,0,0) and (10,0,0) is",100,99,101,102,A,100,a·b=10×10=100.,Moderate,4,-1,,2
+JEE_MAIN,1,9,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (10,0,0) and (2,0,0) is",20,19,21,22,A,20,a·b=10×2=20.,Moderate,4,-1,,2
+JEE_MAIN,1,10,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (9,0,0) and (6,0,0) is",53,56,54,55,C,54,a·b=9×6=54.,Moderate,4,-1,,2
+JEE_MAIN,1,11,Mathematics,Mathematics,Calculus,MCQ,Evaluate ∫₀^2 2x dx.,6,3,5,4,D,4,[x²]₀^2=4;,Moderate,4,-1,,2
+JEE_MAIN,1,13,Mathematics,Mathematics,Calculus,MCQ,The differential equation dy/dx=8y has solution y=C e^(kx). What is k?,9,7,8,10,C,8,Comparing dy/dx=8y gives k=8.,Moderate,4,-1,,2
+JEE_MAIN,1,16,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |4 6; 6 2|.,-29,-26,-27,-28,D,-28,Determinant=4×2−6²=-28.,Moderate,4,-1,,2
+JEE_MAIN,1,17,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |5 7; 7 9|.,-4,-5,-3,-2,A,-4,Determinant=5×9−7²=-4.,Moderate,4,-1,,2
+JEE_MAIN,1,19,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |11 2; 2 9|.,97,94,95,96,C,95,Determinant=11×9−2²=95.,Moderate,4,-1,,2
+JEE_MAIN,1,22,Mathematics,Mathematics,Matrices & Determinants,Numerical,Find determinant |9 2; 2 4|.,,,,,,32,Determinant=9×4−2²=32.,Moderate,4,-1,,2
+JEE_MAIN,1,23,Mathematics,Mathematics,Vectors & 3D,Numerical,"The dot product of vectors (2,0,0) and (2,0,0) is",,,,,,4,a·b=2×2=4.,Moderate,4,-1,,2
+JEE_MAIN,1,27,Physics,Physics,Modern Physics,MCQ,"For a radioactive sample, after 7 half-lives the fraction remaining is",none of these,cannot be determined,1/128,zero,C,1/128,Remaining fraction=(1/2)^7=1/128.,Moderate,4,-1,,2
+JEE_MAIN,1,31,Physics,Physics,Electrostatics,MCQ,"Two point charges are separated by distance r. If the separation is doubled, electrostatic force becomes",none of these,zero,cannot be determined,one-fourth,D,one-fourth,Coulomb force varies as 1/r².,Moderate,4,-1,,2
+JEE_MAIN,1,32,Physics,Physics,Current Electricity,MCQ,A 8 Ω resistor is connected to 24 V. The current is,5,3,4,2,B,3,I=V/R=24/8=3.0 A.,Moderate,4,-1,,2
+JEE_MAIN,1,33,Physics,Physics,Modern Physics,MCQ,A semiconductor diode is primarily used for,rectification,cannot be determined,none of these,zero,A,rectification,"A diode conducts preferentially in one direction, enabling rectification.",Moderate,4,-1,,2
+JEE_MAIN,1,34,Physics,Physics,Electrostatics,MCQ,"Two point charges are separated by distance r. If the separation is doubled, electrostatic force becomes [Variant 2: alternate numerical/context version for this mock set.]",cannot be determined,zero,none of these,one-fourth,D,one-fourth,Coulomb force varies as 1/r².,Moderate,4,-1,,2
+JEE_MAIN,1,37,Physics,Physics,Optics,MCQ,A convex lens has focal length 19 cm. Its power is approximately,6.263,7.263,4.263,5.263,D,5.263,P=1/f(in metres)=100/19≈5.263 D.,Moderate,4,-1,,2
+JEE_MAIN,1,40,Physics,Physics,Modern Physics,MCQ,"In the photoelectric effect, increasing light frequency above threshold primarily increases",none of these,zero,maximum kinetic energy,cannot be determined,C,maximum kinetic energy,Kmax=hν−φ.,Moderate,4,-1,,2
+JEE_MAIN,1,45,Physics,Physics,Optics,MCQ,A convex lens has focal length 13 cm. Its power is approximately,8.692,7.692,9.692,6.692,B,7.692,P=1/f(in metres)=100/13≈7.692 D.,Moderate,4,-1,,2
+JEE_MAIN,1,46,Physics,Physics,Electrostatics,Numerical,"If a sequence has first term 4 and common difference 1, find its 5th term.",,,,,,8,Use a5=a+4d.,Moderate,4,-1,,2
+JEE_MAIN,1,47,Physics,Physics,Electrostatics,Numerical,"If a sequence has first term 7 and common difference 2, find its 5th term.",,,,,,15,Use a5=a+4d.,Moderate,4,-1,,2
+JEE_MAIN,1,48,Physics,Physics,Electrostatics,Numerical,"If a sequence has first term 3 and common difference 3, find its 5th term.",,,,,,15,Use a5=a+4d.,Moderate,4,-1,,2
+JEE_MAIN,1,51,Chemistry,Chemistry,Organic Chemistry,MCQ,Which reagent converts a primary alcohol to an aldehyde under controlled oxidation?,none of these,cannot be determined,zero,PCC,D,PCC,PCC is a mild oxidant that can stop at aldehydes.,Moderate,4,-1,,2
+JEE_MAIN,1,52,Chemistry,Chemistry,Coordination & d/f block,MCQ,Which ion commonly forms coloured coordination compounds?,zero,none of these,Cu²⁺,cannot be determined,C,Cu²⁺,Partially filled d orbitals often produce colour in transition-metal complexes.,Moderate,4,-1,,2
+JEE_MAIN,1,57,Chemistry,Chemistry,Organic Chemistry,MCQ,The functional group −COOH is called,none of these,carboxylic acid,cannot be determined,zero,B,carboxylic acid,−COOH is the carboxyl group of carboxylic acids.,Moderate,4,-1,,2
+JEE_MAIN,1,60,Chemistry,Chemistry,Inorganic Chemistry,MCQ,Which block contains most transition elements?,none of these,zero,d-block,cannot be determined,C,d-block,Transition elements are predominantly d-block elements.,Moderate,4,-1,,2
+JEE_MAIN,1,64,Chemistry,Chemistry,Organic Chemistry,MCQ,Which intermediate is characteristic of an SN1 reaction?,zero,cannot be determined,none of these,carbocation,D,carbocation,SN1 proceeds through a carbocation intermediate.,Moderate,4,-1,,2
+JEE_MAIN,1,68,Chemistry,Chemistry,Organic Chemistry,MCQ,Which intermediate is characteristic of an SN1 reaction? [Variant 2: alternate numerical/context version for this mock set.],cannot be determined,carbocation,zero,none of these,B,carbocation,SN1 proceeds through a carbocation intermediate.,Moderate,4,-1,,2
+JEE_MAIN,1,69,Chemistry,Chemistry,Coordination & d/f block,MCQ,Lanthanides are primarily associated with filling of,none of these,zero,4f orbitals,cannot be determined,C,4f orbitals,Lanthanides involve progressive filling of 4f orbitals.,Moderate,4,-1,,2

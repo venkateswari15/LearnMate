@@ -1,0 +1,43 @@
+exam,paper,question_number,section,subject,topic,question_type,question,option_a,option_b,option_c,option_d,correct_option,correct_answer,explanation,difficulty,marks_correct,marks_incorrect,Unnamed: 18,year
+TG_EAPCET,4,1,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 7 and 6 is,6.5,8.5,5.5,7.5,A,6.5,Mean=(7+6)/2=6.5.,Moderate,1,0,,2
+TG_EAPCET,4,5,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (11,0,0) and (10,0,0) is",110,112,109,111,A,110,a·b=11×10=110.,Moderate,1,0,,2
+TG_EAPCET,4,7,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (3,0,0) and (8,0,0) is",26,24,25,23,B,24,a·b=3×8=24.,Moderate,1,0,,2
+TG_EAPCET,4,9,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |12 6; 6 8|.,60,59,62,61,A,60,Determinant=12×8−6²=60.,Moderate,1,0,,2
+TG_EAPCET,4,16,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |12 3; 3 7|.,74,75,77,76,B,75,Determinant=12×7−3²=75.,Moderate,1,0,,2
+TG_EAPCET,4,23,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |10 8; 8 3|.,-34,-35,-33,-32,A,-34,Determinant=10×3−8²=-34.,Moderate,1,0,,2
+TG_EAPCET,4,25,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (8,0,0) and (2,0,0) is",17,18,16,15,C,16,a·b=8×2=16.,Moderate,1,0,,2
+TG_EAPCET,4,28,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |7 1; 1 9|.,61,62,63,64,B,62,Determinant=7×9−1²=62.,Moderate,1,0,,2
+TG_EAPCET,4,29,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (4,0,0) and (4,0,0) is",16,17,15,18,A,16,a·b=4×4=16.,Moderate,1,0,,2
+TG_EAPCET,4,31,Mathematics,Mathematics,Calculus,MCQ,The differential equation dy/dx=7y has solution y=C e^(kx). What is k?,6,9,7,8,C,7,Comparing dy/dx=7y gives k=7.,Moderate,1,0,,2
+TG_EAPCET,4,32,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |9 6; 6 8|.,37,38,35,36,D,36,Determinant=9×8−6²=36.,Moderate,1,0,,2
+TG_EAPCET,4,36,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (4,0,0) and (3,0,0) is",12,13,11,14,A,12,a·b=4×3=12.,Moderate,1,0,,2
+TG_EAPCET,4,37,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (7,0,0) and (6,0,0) is",44,43,41,42,D,42,a·b=7×6=42.,Moderate,1,0,,2
+TG_EAPCET,4,39,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |8 6; 6 3|.,-11,-10,-13,-12,D,-12,Determinant=8×3−6²=-12.,Moderate,1,0,,2
+TG_EAPCET,4,41,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 9 and 2 is,4.5,6.5,5.5,7.5,C,5.5,Mean=(9+2)/2=5.5.,Moderate,1,0,,2
+TG_EAPCET,4,42,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (4,0,0) and (5,0,0) is",19,22,21,20,D,20,a·b=4×5=20.,Moderate,1,0,,2
+TG_EAPCET,4,43,Mathematics,Mathematics,Calculus,MCQ,The differential equation dy/dx=8y has solution y=C e^(kx). What is k?,9,8,10,7,B,8,Comparing dy/dx=8y gives k=8.,Moderate,1,0,,2
+TG_EAPCET,4,49,Mathematics,Mathematics,Calculus,MCQ,The differential equation dy/dx=6y has solution y=C e^(kx). What is k?,8,7,6,5,C,6,Comparing dy/dx=6y gives k=6.,Moderate,1,0,,2
+TG_EAPCET,4,53,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 6 and 10 is,10,7,9,8,D,8,Mean=(6+10)/2=8.0.,Moderate,1,0,,2
+TG_EAPCET,4,55,Mathematics,Mathematics,Calculus,MCQ,The differential equation dy/dx=10y has solution y=C e^(kx). What is k?,9,12,11,10,D,10,Comparing dy/dx=10y gives k=10.,Moderate,1,0,,2
+TG_EAPCET,4,58,Mathematics,Mathematics,Matrices & Determinants,MCQ,Find determinant |7 5; 5 6|.,17,16,19,18,A,17,Determinant=7×6−5²=17.,Moderate,1,0,,2
+TG_EAPCET,4,71,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (3,0,0) and (2,0,0) is",8,7,5,6,D,6,a·b=3×2=6.,Moderate,1,0,,2
+TG_EAPCET,4,76,Mathematics,Mathematics,Vectors & 3D,MCQ,"The dot product of vectors (5,0,0) and (5,0,0) is",25,27,26,24,A,25,a·b=5×5=25.,Moderate,1,0,,2
+TG_EAPCET,4,77,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 7 and 5 is,5,6,8,7,B,6,Mean=(7+5)/2=6.0.,Moderate,1,0,,2
+TG_EAPCET,4,78,Mathematics,Mathematics,Probability & Statistics,MCQ,The mean of 4 and 9 is,7.5,6.5,5.5,8.5,B,6.5,Mean=(4+9)/2=6.5.,Moderate,1,0,,2
+TG_EAPCET,4,81,Physics,Physics,Modern Physics,MCQ,A semiconductor diode is primarily used for,cannot be determined,none of these,zero,rectification,D,rectification,"A diode conducts preferentially in one direction, enabling rectification.",Moderate,1,0,,2
+TG_EAPCET,4,84,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 11 m moves at 5 m/s perpendicular to a magnetic field of 1 T. The motional emf is,56,57,54,55,D,55,ε=Blv=1×11×5=55 V.,Moderate,1,0,,2
+TG_EAPCET,4,85,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 11 m moves at 13 m/s perpendicular to a magnetic field of 5 T. The motional emf is,717,714,715,716,C,715,ε=Blv=5×11×13=715 V.,Moderate,1,0,,2
+TG_EAPCET,4,87,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 7 m moves at 9 m/s perpendicular to a magnetic field of 5 T. The motional emf is,315,316,317,314,A,315,ε=Blv=5×7×9=315 V.,Moderate,1,0,,2
+TG_EAPCET,4,91,Physics,Physics,Modern Physics,MCQ,"For a radioactive sample, after 8 half-lives the fraction remaining is",1/256,cannot be determined,zero,none of these,A,1/256,Remaining fraction=(1/2)^8=1/256.,Moderate,1,0,,2
+TG_EAPCET,4,92,Physics,Physics,Current Electricity,MCQ,A 2 Ω resistor is connected to 6 V. The current is,2,5,3,4,C,3,I=V/R=6/2=3.0 A.,Moderate,1,0,,2
+TG_EAPCET,4,93,Physics,Physics,Magnetism & EMI/AC,MCQ,A conductor of length 11 m moves at 14 m/s perpendicular to a magnetic field of 5 T. The motional emf is,771,772,769,770,D,770,ε=Blv=5×11×14=770 V.,Moderate,1,0,,2
+TG_EAPCET,4,96,Physics,Physics,Modern Physics,MCQ,"In the photoelectric effect, increasing light frequency above threshold primarily increases",zero,maximum kinetic energy,cannot be determined,none of these,B,maximum kinetic energy,Kmax=hν−φ.,Moderate,1,0,,2
+TG_EAPCET,4,101,Physics,Physics,Modern Physics,MCQ,A semiconductor diode is primarily used for [Variant 2: alternate numerical/context version for this mock set.],rectification,zero,cannot be determined,none of these,A,rectification,"A diode conducts preferentially in one direction, enabling rectification.",Moderate,1,0,,2
+TG_EAPCET,4,102,Physics,Physics,Modern Physics,MCQ,"A photon has frequency 9×10^14 Hz. If h is Planck's constant, its energy is",none of these,cannot be determined,9h×10^14,zero,C,9h×10^14,Use E=hν.,Moderate,1,0,,2
+TG_EAPCET,4,106,Physics,Physics,Electrostatics,MCQ,"Two point charges are separated by distance r. If the separation is doubled, electrostatic force becomes",none of these,zero,cannot be determined,one-fourth,D,one-fourth,Coulomb force varies as 1/r².,Moderate,1,0,,2
+TG_EAPCET,4,110,Physics,Physics,Modern Physics,MCQ,"A photon has frequency 10×10^14 Hz. If h is Planck's constant, its energy is",none of these,cannot be determined,10h×10^14,zero,C,10h×10^14,Use E=hν.,Moderate,1,0,,2
+TG_EAPCET,4,115,Physics,Physics,Modern Physics,MCQ,"For a radioactive sample, after 7 half-lives the fraction remaining is",zero,1/128,cannot be determined,none of these,B,1/128,Remaining fraction=(1/2)^7=1/128.,Moderate,1,0,,2
+TG_EAPCET,4,123,Chemistry,Chemistry,Coordination & d/f block,MCQ,Lanthanides are primarily associated with filling of,cannot be determined,zero,none of these,4f orbitals,D,4f orbitals,Lanthanides involve progressive filling of 4f orbitals.,Moderate,1,0,,2
+TG_EAPCET,4,132,Chemistry,Chemistry,Organic Chemistry,MCQ,Which intermediate is characteristic of an SN1 reaction?,cannot be determined,none of these,zero,carbocation,D,carbocation,SN1 proceeds through a carbocation intermediate.,Moderate,1,0,,2
+TG_EAPCET,4,136,Chemistry,Chemistry,Coordination & d/f block,MCQ,Which ion commonly forms coloured coordination compounds?,cannot be determined,Cu²⁺,zero,none of these,B,Cu²⁺,Partially filled d orbitals often produce colour in transition-metal complexes.,Moderate,1,0,,2
+TG_EAPCET,4,156,Chemistry,Chemistry,Organic Chemistry,MCQ,Which intermediate is characteristic of an SN1 reaction? [Variant 2: alternate numerical/context version for this mock set.],carbocation,none of these,cannot be determined,zero,A,carbocation,SN1 proceeds through a carbocation intermediate.,Moderate,1,0,,2
