@@ -346,20 +346,25 @@ with test_tab:
         format_func=lambda x: f"Mock Test {x}",
         key="csv_mock_paper"
     )
-
     file_prefix = exam_file_names[exam]
 
-        mock_file = (
+    mock_filename = (
+        f"{file_prefix}_Mock_Test_{paper_number}_Year{year_number}.csv"
+    )
+
+    mock_file = (
         BASE_DIR
         / "Year_Assigned"
-        / f"{file_prefix}_Mock_Test_{paper_number}_Year{year_number}.csv"
+        / mock_filename
     )
 
     if not mock_file.is_file():
-        mock_file = (
-            BASE_DIR
-            / f"{file_prefix}_Mock_Test_{paper_number}_Year{year_number}.csv"
-        )
+        mock_file = BASE_DIR / mock_filename
+
+    if not mock_file.is_file():
+        matches = list(BASE_DIR.rglob(mock_filename))
+        if matches:
+            mock_file = matches[0]
 
     if not mock_file.is_file():
         st.error(
@@ -367,8 +372,7 @@ with test_tab:
         )
         st.stop()
 
-
-
+    
     else:
 
         try:
@@ -463,12 +467,25 @@ with test_tab:
                     identical_exam = None
 
                     for other_prefix in other_exams[exam]:
+                        other_filename = (
+                            f"{other_prefix}_Mock_Test_{paper_number}_Year{year_number}.csv"
+                        )
 
                         other_file = (
-    BASE_DIR
-    / "Year_Assigned"
-    / f"{other_prefix}_Mock_Test_{paper_number}_Year{year_number}.csv"
-)
+                            BASE_DIR
+                            / "Year_Assigned"
+                            / other_filename
+                        )
+
+                        if not other_file.is_file():
+                            other_file = BASE_DIR / other_filename
+
+                        if not other_file.is_file():
+                            other_matches = list(
+                                BASE_DIR.rglob(other_filename)
+                            )
+                            if other_matches:
+                                other_file = other_matches[0]
 
                         if other_file.is_file():
 
