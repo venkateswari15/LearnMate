@@ -97,5 +97,6 @@ LearnMate makes competitive exam preparation easier by bringing practice questio
 **Project Name: LearnMate**  
 **Developed Using: Python and Streamlit**
 
-LearnMate – Online Exam Preparation Platform
-Click here to open LearnMate: https://learnmate-exam-prep.streamlit.app/?utm_source=chatgpt.com
+## 🌐 Live Website
+
+[Open LearnMate](https://learnmate-exam-prep.streamlit.app/)
