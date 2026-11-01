@@ -349,17 +349,23 @@ with test_tab:
 
     file_prefix = exam_file_names[exam]
 
-    mock_file = (
+        mock_file = (
         BASE_DIR
         / "Year_Assigned"
         / f"{file_prefix}_Mock_Test_{paper_number}_Year{year_number}.csv"
     )
 
     if not mock_file.is_file():
+        mock_file = (
+            BASE_DIR
+            / f"{file_prefix}_Mock_Test_{paper_number}_Year{year_number}.csv"
+        )
 
+    if not mock_file.is_file():
         st.error(
             f"{exam} Mock Test {paper_number} CSV file not found."
         )
+        st.stop()
 
 
 
